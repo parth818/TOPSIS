@@ -22,14 +22,14 @@ def perform_Topsis(source, weights, impacts, result):
             weights[i] = float(weights[i])
             ws+=weights[i]
         except:    
-            print('\nWeights must be numeric, Exiting....')
+            print('\nWeights must be numeric and comma separated, Exiting....')
             exit(0)
 
     weights = [(i/ws) for i in weights]
 
     for i in impacts:
         if(i not in ['+','-']):
-            print('\nImpacts must be either positive or negative, Exiting....')
+            print('\nImpacts must be either positive or negative and comma separated, Exiting....')
             exit(0)
     
     import pandas as pd

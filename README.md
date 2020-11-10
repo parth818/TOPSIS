@@ -12,7 +12,7 @@
 </h2>
 
 ```
-pip install TOPSIS-Parth-101983047==0.0.6
+pip install TOPSIS-Parth-101983047==0.0.7
 ```
 
 <h2 style="text-align: justify; color: black">Usage

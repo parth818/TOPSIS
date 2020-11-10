@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: TOPSIS-Parth-101983047
-Version: 0.0.6
+Version: 0.0.7
 Summary: A simplified package to perform TOPSIS Analysis.
 Home-page: https://github.com/parth818/TOPSIS-Parth-101983047
 Author: Parth Verma
@@ -20,7 +20,7 @@ Description: <h1 style="text-align: justify; color: black">TOPSIS
         </h2>
         
         ```
-        pip install TOPSIS-Parth-101983047==0.0.6
+        pip install TOPSIS-Parth-101983047==0.0.7
         ```
         
         <h2 style="text-align: justify; color: black">Usage

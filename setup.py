@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf8") as fh:
 
 setuptools.setup(
     name="TOPSIS-Parth-101983047",
-    version="0.0.6",
+    version="0.0.7",
     author="Parth Verma",
     author_email="vermaparth818@gmail.com",
     description="A simplified package to perform TOPSIS Analysis.",
